@@ -1,1 +1,1 @@
-Precipitacions-Barcelona-EDA, proyecto realizado en el límite de 2 dias.
+Precipitacions-Barcelona-EDA fue la prueba final de IT Academy, a realizar en el terminio de dos días, para demostrar las habilidades adquiridas y su puesta en práctica con una fecha de entrega apremieante.
